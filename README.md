@@ -471,5 +471,4 @@ Mohd. Altamash Rizwi
 - Frontend: Deploy to see your live app!
 
 For detailed deployment guides, see `DEPLOYMENT.md` and `RENDER_DEPLOYMENT.md`.
-#   M i n i - C o d e - C o p i l o t - S  
- 
+#
