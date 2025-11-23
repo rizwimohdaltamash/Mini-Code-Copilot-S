@@ -456,10 +456,6 @@ npm install
 - Smooth transitions between themes
 - Theme-aware components throughout
 
-## 📝 License
-
-MIT
-
 ## 👨‍💻 Author
 
 Mohd. Altamash Rizwi
@@ -468,7 +464,8 @@ Mohd. Altamash Rizwi
 
 **Live Demo:**
 - Backend: https://mini-code-copilot-backend-1.onrender.com
-- Frontend: Deploy to see your live app!
+- Frontend: Deployed to see my live app!
 
 For detailed deployment guides, see `DEPLOYMENT.md` and `RENDER_DEPLOYMENT.md`.
 #
+
